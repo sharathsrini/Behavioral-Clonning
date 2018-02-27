@@ -8,7 +8,8 @@
 3.Read about Collabroratory Notebook
 4.ELU - activation Function.
 
-####### 26-02-2018
+
+###### 26-02-2018
 1. How do I choose an optimizer for my tensorflow model? https://www.quora.com/How-do-I-choose-an-optimizer-for-my-tensorflow-model
 
 2. What are good initial weights in a neural network? https://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network
@@ -19,7 +20,7 @@ How to choose a pre-trained model? https://www.analyticsvidhya.com/blog/2017/06/
 
 Activation functions and it’s types-Which is better? https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
 
-####### 27-02-2018
+###### 27-02-2018
 1. Generator Class in the Pipeline
 2. Keras - Checkpoints and Callbacks
 3. Image Augmentation 
