@@ -14,9 +14,9 @@
 
 2. What are good initial weights in a neural network? https://stats.stackexchange.com/questions/47590/what-are-good-initial-weights-in-a-neural-network
 
-3.Transfer Learning: How to choose a pre-trained model? https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/
+3. Transfer Learning: How to choose a pre-trained model? https://www.analyticsvidhya.com/blog/2017/06/transfer-learning-the-art-of-fine-tuning-a-pre-trained-model/
 
-Activation functions and it’s types-Which is better? https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
+4. Activation functions and it’s types-Which is better? https://towardsdatascience.com/activation-functions-and-its-types-which-is-better-a9a5310cc8f
 
 ###### 27-02-2018
 1. Generator Class in the Pipeline
