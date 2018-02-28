@@ -26,14 +26,25 @@ Activation functions and it’s types-Which is better? https://towardsdatascienc
 5. Generated the model.h5
 
 ###### 28-02-2018
-1.Localization + Classification
-2.Sliding window for detecting objects all over the image.(Size of the ppatch depends on the size of the image.)
-3.Activation Map for detecting objects and classes
+1.Localization + Classification.
+
+2.Sliding window for detecting objects all over the image.(Size of the ppatch depends on the size of the image.).
+
+3.Activation Map for detecting objects and classes.
+
 4.YOLO  : Choose the ground truth of each classes properly.
+
 5.Centre block or the grid cell that lies on centre of the object, is responsible for detecting the object.
-6. YOLO v1 : 1000 classes
+
+6. YOLO v1 : 1000 classes.
+
 7.It treats the image as a single regression problem.
+
 8.Five outputs : X, Y, W, H, Confidence.
-9. Confidence = Pr(Object) * IOU
+
+9. Confidence = Pr(Object) * IOU.
+
 10. IOU : Intersection over Union.
+
 11. IOU tends to be within 0 and 1. It depends ont he overlapping of the images.
+
