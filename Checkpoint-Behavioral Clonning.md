@@ -35,10 +35,10 @@
 7. It treats the image as a single regression problem.
 8. Five outputs : X, Y, W, H, Confidence.
 9. Confidence = Pr(Object) * IOU.
-10.IOU : Intersection over Union.
-11.IOU tends to be within 0 and 1. It depends ont he overlapping of the images.
-12.Non-max supression algorithm 
-13.https://medium.com/diaryofawannapreneur/yolo-you-only-look-once-for-object-detection-explained-6f80ea7aaa1e
-14.Region-based Convolutional Neural Networks
-15.Mini-YOLO : https://github.com/xslittlegrass/CarND-Vehicle-Detection/blob/master/vehicle%20detection.ipynb
-16.Objects with the Same center point on the image, Only object can be detected. Changing the size of the sliding window would help to certain level. 
+10. IOU : Intersection over Union.
+11. IOU tends to be within 0 and 1. It depends ont he overlapping of the images.
+12. Non-max supression algorithm 
+13. https://medium.com/diaryofawannapreneur/yolo-you-only-look-once-for-object-detection-explained-6f80ea7aaa1e
+14. Region-based Convolutional Neural Networks
+15. Mini-YOLO : https://github.com/xslittlegrass/CarND-Vehicle-Detection/blob/master/vehicle%20detection.ipynb
+16. Objects with the Same center point on the image, Only object can be detected. Changing the size of the sliding window would help to certain level. 
