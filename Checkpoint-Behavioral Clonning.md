@@ -42,3 +42,7 @@
 14. Region-based Convolutional Neural Networks
 15. Mini-YOLO : https://github.com/xslittlegrass/CarND-Vehicle-Detection/blob/master/vehicle%20detection.ipynb
 16. Objects with the Same center point on the image, Only object can be detected. Changing the size of the sliding window would help to certain level. 
+17. Loss Function in YOLO.
+18. Pixel Level Detail in Term 3, Image Semantioc Segmentation, Facebook AI research (FAIR). 
+19. SSD vs YOLO
+20. Mask R-CNN - Classification + segmentation
