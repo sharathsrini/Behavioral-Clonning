@@ -27,24 +27,18 @@ Activation functions and it’s types-Which is better? https://towardsdatascienc
 
 ###### 28-02-2018
 1.Localization + Classification.
-
 2.Sliding window for detecting objects all over the image.(Size of the ppatch depends on the size of the image.).
-
 3.Activation Map for detecting objects and classes.
-
 4.YOLO  : Choose the ground truth of each classes properly.
-
 5.Centre block or the grid cell that lies on centre of the object, is responsible for detecting the object.
-
 6. YOLO v1 : 1000 classes.
-
 7.It treats the image as a single regression problem.
-
 8.Five outputs : X, Y, W, H, Confidence.
-
 9. Confidence = Pr(Object) * IOU.
-
 10. IOU : Intersection over Union.
-
 11. IOU tends to be within 0 and 1. It depends ont he overlapping of the images.
-
+12. Non-max supression algorithm 
+13. https://medium.com/diaryofawannapreneur/yolo-you-only-look-once-for-object-detection-explained-6f80ea7aaa1e
+14. Region-based Convolutional Neural Networks
+15. Mini-YOLO : https://github.com/xslittlegrass/CarND-Vehicle-Detection/blob/master/vehicle%20detection.ipynb
+16. Objects with the Same center point on the image, Only object can be detected. Changing the size of the sliding window would help to certain level. 
