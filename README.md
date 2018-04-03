@@ -48,7 +48,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![png](readme/output_3_0.png)
 
 
 
@@ -60,7 +60,7 @@ plt.show()
 ```
 
 
-![png](output_4_0.png)
+![png](readme/output_4_0.png)
 
 
 
@@ -72,7 +72,7 @@ plt.show()
 ```
 
 
-![png](output_5_0.png)
+![png](readme/output_5_0.png)
 
 
 
@@ -84,7 +84,7 @@ plt.show()
 ```
 
 
-![png](output_6_0.png)
+![png](readme/output_6_0.png)
 
 
 
@@ -330,7 +330,7 @@ plot_history(batch_history)
 ```
 
 
-![png](output_18_0.png)
+![png](readme/output_18_0.png)
 
 
 
@@ -345,5 +345,5 @@ plt.show()
 ```
 
 
-![png](output_19_0.png)
+![png](readme/output_19_0.png)
 
